@@ -1,4 +1,60 @@
-body {
-	background: #700;
-	font-family: "ComicSansMs"
+
+header {
+	font-family: Verdana;
+	text-align: center;
+
+
+}
+p{
+	float: center;
+}
+body{
+	text-align: center;
+	background: #fff;
+	color: black;
+
+}
+ul {
+	list-style-type: none;
+	padding: 10px;
+	background: lightgrey;
+}
+li {
+	display: inline;
+	padding: 10px 10px 10px 10px;
+	text-decoration: underline;
+}
+
+a:link {
+	text-decoration: none;
+
+}
+h2 {
+	float: center;
+	font-family: arial;
+}
+h3{
+}
+ol{
+	display: inline;
+	padding: 20px 0px 20px 0px
+	font-size: 14px;
+	font-family: aerial;
+ 
+}
+#contentwrapper{
+	margin: 0;
+}
+#rightimgdiv{
+	background-size: contain;
+
+	
+}
+#portfolio{
+	background: #fff;
+
+
+}
+footer{
+	background: lightblue;
 }
